@@ -116,3 +116,5 @@ btnStart.onclick = function() {
   timer.innerHTML = `00:00`;
     clicks += 1;
 }
+
+
